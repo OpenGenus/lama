@@ -1,0 +1,10 @@
+[
+	{
+		"message": "story line 1",
+		"interrupt": "what to say if interrupted by human"
+	},
+	{
+		"message": "story line 2",
+		"interrupt": "what to say"
+	}
+]
